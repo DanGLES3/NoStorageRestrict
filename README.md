@@ -5,7 +5,7 @@
 Removes the restriction when selecting folders (Downloads/Android) through the file manager on Android 11 and higher
 
 ## Requirements
-- Magisk 20.x
+- Magisk v20.x
 - Android 11 or higher
 
 ## Changelog
