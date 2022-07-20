@@ -4,6 +4,9 @@
 
 Removes the restriction when selecting folders (Downloads/Android) through the file manager on Android 11 and higher
 
+For the Xposed Module look here
+https://github.com/Xposed-Modules-Repo/com.github.dan.nostoragerestrict
+
 ## Requirements
 - Magisk 20.x
 - Android 11 or higher
