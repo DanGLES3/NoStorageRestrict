@@ -4,6 +4,10 @@
 
 Removes the restriction when selecting folders (Downloads/Android) through the file manager on Android 11 and higher
 
+### Warning
+
+Use of this module on Stock ROMs is not recommended, for thkse use the Xposed module.
+
 For the Xposed Module look here
 https://github.com/Xposed-Modules-Repo/com.github.dan.nostoragerestrict
 
